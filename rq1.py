@@ -1,6 +1,6 @@
 '''
-Akond Rahman 
-May 04, 2020 
+Thomas Murphy 
+October 10, 2022 
 Answer to RQ1 
 '''
 import os 
